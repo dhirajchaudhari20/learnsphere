@@ -19,4 +19,4 @@ Before you start, ensure you have the following:
 Python: Install Python 3.x.
 Libraries: Install the required libraries using pip install.
 Google Cloud API Key: Obtain your API key from Google Cloud and set it up in a .env file.
-Made by Team Ligc Lrods at Mumbai Hack 2024.
+Made by Team Logic Lords at Mumbai Hack 2024.
